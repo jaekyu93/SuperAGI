@@ -69,7 +69,7 @@ WEAVIATE_USE_EMBEDDED: true
 #####################------------------TOOLS KEY-------------------------########################
 #If you have google api key and CSE key, use this
 GOOGLE_API_KEY: AIzaSyBlcI4tt3T3ycnceKCwI7lsFyvX-lO0jYE
-SEARCH_ENGINE_ID: YOUR_SEARCH_ENIGNE_ID
+SEARCH_ENGINE_ID: 04b8eb3d7107b4bbd
 
 # IF YOU DONT HAVE GOOGLE SEARCH KEY, YOU CAN USE SERPER.DEV KEYS
 SERP_API_KEY: YOUR_SERPER_API_KEY
